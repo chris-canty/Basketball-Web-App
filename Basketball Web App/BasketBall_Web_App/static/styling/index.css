@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+   }
+
+.h1like {
+    text-align: center;
+}
+
+th{
+  border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+    text-align: center;
+}
+
+table {
+   margin: auto;
+   border: 1px solid;
+}
+
+.span > * {
+    display: inline;
+}
+
+form {
+    margin-left: 30%;
+    margin-right: 5%;
+}
+
+.error {
+    color: red;
+}
